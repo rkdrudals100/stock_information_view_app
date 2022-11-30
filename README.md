@@ -3,5 +3,5 @@
 간단한 주식 정보를 크롤링해서 보여주는 앱입니다.
 </br></br>
 
-https://user-images.githubusercontent.com/74872542/193761471-5ca0530a-ebcf-4f1d-98f9-3909e85338de.mp4
+https://user-images.githubusercontent.com/74872542/204685187-09b1bc3a-08e0-4b5e-927a-9df93ed8197e.mp4
 
