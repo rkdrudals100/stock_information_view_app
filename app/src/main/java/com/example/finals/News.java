@@ -52,6 +52,7 @@ public class News extends AppCompatActivity {
             }
         });
 
+
         // 뒤로 가기 버튼
         btnBack2.setOnClickListener(new View.OnClickListener() {
             @Override
